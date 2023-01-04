@@ -9,5 +9,4 @@ public class Loc03RestfulCrudApplication {
     public static void main(String[] args) {
         SpringApplication.run(Loc03RestfulCrudApplication.class, args);
     }
-
 }
